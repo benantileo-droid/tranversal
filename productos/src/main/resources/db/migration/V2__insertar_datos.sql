@@ -1,0 +1,10 @@
+INSERT INTO producto(nombre, precio) VALUES ('notebook', 350000);
+INSERT INTO producto(nombre, precio) VALUES ('notebook gamer', 650000);
+INSERT INTO producto(nombre, precio) VALUES ('pc torre', 850000);
+INSERT INTO producto(nombre, precio) VALUES ('pc torre gamer', 1050000);
+INSERT INTO producto(nombre, precio) VALUES ('monitor', 100000);
+INSERT INTO producto(nombre, precio) VALUES ('monitor 144Hz', 250000);
+INSERT INTO producto(nombre, precio) VALUES ('mouse', 30000);
+INSERT INTO producto(nombre, precio) VALUES ('mouse gamer', 80000);
+INSERT INTO producto(nombre, precio) VALUES ('teclado', 20000);
+INSERT INTO producto(nombre, precio) VALUES ('teclado gamer', 50000);
